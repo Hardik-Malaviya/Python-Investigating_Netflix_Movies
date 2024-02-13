@@ -1,7 +1,5 @@
 # Python-Investigating-Netflix-Movies
 
-# Project Description
-In this project, you'll apply your Python skills to answer a real-world question. You'll aim to discover if Netflix's movies are getting shorter over time using everything from lists and loops to pandas and matplotlib. You'll also gain experience in an essential data science skill — exploratory data analysis.
 
 # Project Instructions
 Your friend suspects that movies are getting shorter and they've found some initial evidence of this. Having peaked your interest, you will perform exploratory data analysis on the netflix_data.csv data to understand what may be contributing to movies getting shorter over time. Your analysis will follow these steps:
@@ -13,8 +11,6 @@ Your friend suspects that movies are getting shorter and they've found some init
 * Using a for loop and if/elif statements, iterate through the rows of netflix_movies and assign colors of your choice to four genre groups ("Children", "Documentaries", "Stand-Up", and "Other" for everything else). Save the results in a colors list. Initialize a matplotlib figure object called fig and create a scatter plot for movie duration by release year using the colors list to color the points and using the labels "Release year" for the x-axis, "Duration (min)" for the y-axis, and the title "Movie Duration by Year of Release".
 * After inspecting the plot, answer the question "Are we certain that movies are getting shorter?" by assigning either "yes" or "no" to the variable answer.
 * Click the "Submit Project" button to check your solution.
-
-![nexflix](https://github.com/Hardik-Malaviya/Python-Investigating_Netflix_Movies/blob/main/redpopcorn.jpg)
 
 # Netflix! 
 
